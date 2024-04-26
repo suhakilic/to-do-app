@@ -30,7 +30,7 @@ This ensures that when you reload the page or revisit it, your task list and the
 </ul>
 
 <h2>Live Demo</h2>
-Test the app live <a href="suhacankilictodoapp.netlify.app/" target="_blank">here</a>.
+Test the app live <a href="https/suhacankilictodoapp.netlify.app/" target="_blank">here</a>.
 
 <h2>App Screenshots</h2>
 <h4>Screenshot-1</h4>
